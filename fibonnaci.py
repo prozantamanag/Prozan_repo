@@ -1,3 +1,7 @@
+
+#This code is written by Projan Tamang
+
+
 def fibonacci(n):
     sequence = []
     a, b = 0, 1
@@ -9,3 +13,7 @@ def fibonacci(n):
 if __name__ == "__main__":
     count = int(input("How many Fibonacci numbers? "))
     print(fibonacci(count))
+    
+    
+    
+#Changes to be merged in the main file
